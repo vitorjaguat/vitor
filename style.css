@@ -35,11 +35,12 @@ body {
 }
 
 .bio {
+  margin-top: 40px;
   width: 50%;
 }
 
 .minibio {
-  text-align: right;
+  text-align: left;
 }
 
 .minibio h3 {
