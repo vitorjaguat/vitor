@@ -45,6 +45,8 @@ nav .btn {
 
 .img {
   width: 30vw;
+  align-self: flex-start;
+  margin-top: 8%;
 }
 
 .img img {
