@@ -95,6 +95,10 @@ li .maior {
   font-size: 20px;
 }
 
+.fa-markdown {
+  font-stretch: condensed;
+}
+
 .minibio a {
   text-decoration: 0;
   font-weight: bold;
